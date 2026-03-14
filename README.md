@@ -103,7 +103,7 @@ Run the training notebooks to generate them:
 ---
 ## Screenshots
 
-D:\AI smart manufacturing\factory_ai\images\a5
+!(D:\AI smart manufacturing\factory_ai\images\a5)
 
 
 
