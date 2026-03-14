@@ -104,7 +104,7 @@ Run the training notebooks to generate them:
 ## Screenshots
 
 !(D:\AI smart manufacturing\factory_ai\images\a5)
-
+![Image Name](images/a1.png)
 
 
 
