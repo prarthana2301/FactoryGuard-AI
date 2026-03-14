@@ -102,21 +102,21 @@ Run the training notebooks to generate them:
 
 ---
 ## Screenshots
-!("C:\Users\sripr\OneDrive\Pictures\a1.png")
+
 ### Login Page
-!("C:\Users\sripr\OneDrive\Pictures\a1.png")
+![Login Page](images/a1.png)
 
 ### Dashboard
-![Dashboard]("C:\Users\sripr\OneDrive\Pictures\a2.png")
+![Dashboard](images/a2.png)
 
 ### RUL Prediction
-![RUL]("C:\Users\sripr\OneDrive\Pictures\a3.png")
+![RUL](images/a3.png)
 
 ### Visual Inspection
-![Visual]("C:\Users\sripr\OneDrive\Pictures\a4.png")
+![Visual](images/a4.png)
 
 ### Supply Chain
-![Supply]("C:\Users\sripr\OneDrive\Pictures\a5.png")
+![Supply](images/a5.png)
 
 
 
