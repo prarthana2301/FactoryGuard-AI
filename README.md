@@ -103,20 +103,8 @@ Run the training notebooks to generate them:
 ---
 ## Screenshots
 
-### Login Page
-![Login Page](images/a1.png)
+D:\AI smart manufacturing\factory_ai\images\a5
 
-### Dashboard
-![Dashboard](images/a2.png)
-
-### RUL Prediction
-![RUL](images/a3.png)
-
-### Visual Inspection
-![Visual](images/a4.png)
-
-### Supply Chain
-![Supply](images/a5.png)
 
 
 
