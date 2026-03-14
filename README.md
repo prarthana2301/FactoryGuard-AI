@@ -104,7 +104,7 @@ Run the training notebooks to generate them:
 ## Screenshots
 
 ### Login Page
-![Login]("C:\Users\sripr\OneDrive\Pictures\a1.png")
+!("C:\Users\sripr\OneDrive\Pictures\a1.png")
 
 ### Dashboard
 ![Dashboard]("C:\Users\sripr\OneDrive\Pictures\a2.png")
