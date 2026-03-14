@@ -102,7 +102,7 @@ Run the training notebooks to generate them:
 
 ---
 ## Screenshots
-
+!("C:\Users\sripr\OneDrive\Pictures\a1.png")
 ### Login Page
 !("C:\Users\sripr\OneDrive\Pictures\a1.png")
 
